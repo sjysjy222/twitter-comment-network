@@ -1,5 +1,4 @@
-This [ipynb](./twitter-comment-network
-/tweet_crawler_v2_release.ipynb) allowed you to collect the comment interactions between a given range of twitter accounts.
+This [ipynb](https://github.com/sjysjy222/twitter-comment-network/blob/main/tweet_crawler_v2_release.ipynb) allowed you to collect the comment interactions between a given range of twitter accounts.
 Detailed guide is in the ipynb file.
 Remember, Crawling could threaten your twitter accounts and NEVER CRAWL TOO FAST :)
 
